@@ -1,0 +1,8 @@
+> seaborn.countplot          --> https://seaborn.pydata.org/generated/seaborn.countplot.html?highlight=countplot#seaborn.countplot
+> matplolib.colors           --> https://matplotlib.org/api/colors_api.html?highlight=color#module-matplotlib.colors
+> pandas.plot                --> https://pandas.pydata.org/pandas-docs/version/0.22/generated/pandas.DataFrame.plot.html#pandas.DataFrame.plot
+> plot scatter marker size   --> https://stackoverflow.com/questions/14827650/pyplot-scatter-plot-marker-size
+> pandas.query               --> http://jose-coto.com/query-method-pandas
+> pandas add x & y label     --> https://stackoverflow.com/questions/21487329/add-x-and-y-labels-to-a-pandas-plot
+> pandas.series.value_counts --> https://pandas.pydata.org/pandas-docs/version/0.23/generated/pandas.Series.value_counts.html
+> wikipedia titanic          --> https://pt.wikipedia.org/wiki/RMS_Titanic
