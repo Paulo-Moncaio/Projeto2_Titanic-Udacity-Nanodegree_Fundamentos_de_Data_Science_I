@@ -1,1 +1,3 @@
-# Projeto2_Titanic-Udacity-Nanodegree_Fundamentos_de_Data_Science_I
+<center> <h1>Projeto2_Titanic-Udacity</h1></center>
+<h3>Programa Nanodegree Fundamentos de Data Science 2</h3>
+Segundo Projeto do Nanodegree Fundamentos de Data Science I da Udacity, projeto do modulo de introdução a Analise de Dados
